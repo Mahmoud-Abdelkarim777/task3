@@ -1,0 +1,98 @@
+
+li{
+
+    font-size: 30px ;
+    color: #000;
+    display:inline;
+    padding-right: 100px;
+
+    }
+.one div{
+            width: 400px;
+            height: 400px;
+            background-color: aqua;
+            padding: 20px;
+            margin: 20px;
+    }
+    .assign-3-shape-1{
+            background-image: url(../tasks/shape.png);
+            background-repeat: no-repeat;
+    }
+    .assign-3-shape-2{
+      background-image: url(../tasks/shape.png);
+    background-repeat: repeat-y;
+    background-position: right;
+    }
+    .assign-3-shape-3{
+      background-image: url(../tasks/shape.png);
+background-position: bottom;
+background-repeat: repeat-x;
+    }
+    .assign-3-shape-4{
+      background-image: url(../tasks/shape.png);
+
+    }
+.shapes div{
+display: inline-block;
+background-color: rgb(184, 128, 128);
+width: 400px;
+height: 200px;
+text-align:center;
+line-height: 4;
+margin: 20px;
+
+}
+.shape1{
+    
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+   
+    outline-style: solid;
+    outline-width: 5px;
+}
+.shape2{
+    
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue green;
+   
+    outline-style: solid;
+    outline-width: 5px;
+}
+.shape3{
+    
+    font-size: 50px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red green blue yellow;
+   
+    outline-style: solid;
+    outline-width: 5px;
+}
+.three div{
+background-color: rgb(191, 216, 177);
+padding:20px ;
+margin: 5px;
+font-size: 30px; 
+line-height: 3;
+width: 400px;
+
+}
+
+.div2{
+    visibility: hidden;
+}
+
+.div1{
+    
+border-left: 10px solid rgb(250, 59, 202);
+outline: 10px solid rgb(191, 216, 177);
+}
+.div3{
+    
+border-left: 10px solid rgb(22, 127, 189);
+outline: 10px solid rgb(191, 216, 177);
+}
